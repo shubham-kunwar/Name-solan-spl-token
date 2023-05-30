@@ -67,7 +67,9 @@ async function main(){
 
         symbol: "$KULL",
 
-        uri: "",
+        uri:"https://raw.githubusercontent.com/shubham-kunwar/Name-solan-spl-token/main/Metadata.json",
+        //metadata example with image uri
+
 
         // we don't need that
 
